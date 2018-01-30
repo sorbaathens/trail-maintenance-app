@@ -4,4 +4,12 @@ The idea is a smartphone app that helps trail users contribute to trail maintena
 
 An example of the type of functionality that we envision is provided by the Amherst, MA browser based reporting system. http://gis.amherstma.gov/trailreq/
 
-[A link](http://gis.amherstma.gov/trailreq/){:target="_blank"}
+Core features:
+
++ Ability to have a user management system so all reports are tied to a user account.
++ A map and ability to add reports based on users GPS locatoin.
++ Ability to navigate to where work is needed.
+ 
+Enhanced features:
+
++ System for tracking trail work hours based on a geofence.
