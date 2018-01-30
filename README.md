@@ -1,6 +1,6 @@
 # Trail maintenance app
 
-![](images/2018-01-28 12.18.01.jpg)
+![](trail-maintenance-app/images/2018-01-28 12.18.01.jpg)
 
 The idea is a smartphone app that helps trail users contribute to trail maintenance.  This would be accomplished by providing a platform and a system for reporting trail maintenance needs, allowing users to sign up and be assigned trail maintenance tasks, and allow maintenance to be marked as done in a to do list fashion.
 
