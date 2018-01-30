@@ -9,6 +9,7 @@ Core features:
 + Ability to have a user management system so all reports are tied to a user account.
 + A map and ability to add reports based on users GPS locatoin.
 + Ability to navigate to where work is needed.
++ Ability to add pictures and other details.
  
 Enhanced features:
 
