@@ -7,10 +7,11 @@ An example of the type of functionality that we envision is provided by the [Amh
 Core features:
 
 + Ability to have a user management system so all reports are tied to a user account.
-+ A map and ability to add reports based on users GPS locatoin.
-+ Ability to navigate to where work is needed.
++ A map and ability to add reports based on users GPS location.
++ Ability to navigate to work sites.
 + Ability to add pictures and other details.
  
 Enhanced features:
 
 + System for tracking trail work hours based on a geofence.
++ System for tracking how many hours each user contributes.
